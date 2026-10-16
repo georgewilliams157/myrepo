@@ -1,5 +1,5 @@
 ---
-title: "Thoughts on GitHub"
+title: "My thoughts on GitHub"
 subtitle: "I hate it" # only for html output
 author: "George Williams"
 date: "`r Sys.Date()`"
